@@ -1,0 +1,14 @@
+{
+  "name": "singup-form",
+  "version": "1.0.0",
+  "description": "a singup form",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "VhalZim",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
